@@ -1,0 +1,24 @@
+{
+  "name": "defaultdict",
+  "version": "1.0.0",
+  "description": "JavaScript implementation of Python's defaultdict",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiruh/defaultdict.git"
+  },
+  "keywords": [
+    "defaultdict",
+    "node",
+    "npm"
+  ],
+  "author": "kiruh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiruh/defaultdict/issues"
+  },
+  "homepage": "https://github.com/kiruh/defaultdict#readme"
+}
